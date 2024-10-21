@@ -174,13 +174,3 @@ Contributions are what make the open source community such an amazing place to b
 <br/>
 <br/>
 <br/>
-
-
-## 📞 Contact
- - [LinkedIn](https://www.linkedin.com/in/joshua-inyang-2753841b7/) 
- <br/>
-
- - [My Website](https://www.bouncei.herokuapp.com)
- <br/>
-
-- [twitter ](https://twitter.com/InyangJoshua8)
